@@ -4,3 +4,4 @@ MrIjlal Daily Schedule
 - Learn programming (8 Hours a day)
 - Learn DOM javascript
 - Learn js framework
+- Learn OOP
