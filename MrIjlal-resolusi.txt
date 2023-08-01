@@ -1,4 +1,5 @@
 MrIjlal Resolusi
 - Konsisten untuk belajar coding setiap hari
 - Belajar framework untuk web development
-- Membuat dummy project 
+- Membuat dummy project
+- Bercita-cita menjadi Web Developer atau React native developer
